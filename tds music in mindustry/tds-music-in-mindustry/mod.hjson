@@ -1,0 +1,7 @@
+name: "tds-music"
+displayName: "[white]Tower Defense [blue]Simulator [gray]music"
+author: "[navy]Tonky [blue]Boi"
+description: "[gray]Changes the music to the music from [white]Tower Defense [blue]Simulator [gray] on [red]Roblox"
+version: "1.0"
+minGameVersion: "105"
+hidden: "true"
